@@ -1,0 +1,6 @@
+{
+  "name": "Global Intelligence Platform",
+  "description": "An OSINT and educational data visualization platform for global crime and migration metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
